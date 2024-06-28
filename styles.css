@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body {
+  width: 1100px;
+  background-color:gray;
+}
+
+.col1 {
+  width: 200px;
+}
+.col2 {
+  width: 600px;
+}
+.col3 {
+  width: 200px;
+}
+table,td,tr{
+	
+	border-collapse:collapse;
+	border:1px solid white;
+}
